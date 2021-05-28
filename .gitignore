@@ -34,3 +34,7 @@
 /Skelton/*.vcxproj
 /Skelton/*.filters
 /Skelton/*.user
+/Skelton/x64
+/Skelton/*.txt
+/Skelton/*.cpp
+/Skelton/*.h
